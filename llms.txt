@@ -1,0 +1,26 @@
+# Juridisk AI-Stöttning
+
+> Juridisk AI-Stöttning hjälper privatpersoner och företag i Sverige med juridiska dokument och ärenden mot myndigheter, försäkringsbolag och motparter. Arbetet görs med AI-stöd och granskas alltid manuellt innan leverans. Du betalar endast vid vinst (procent eller fast avgift, bestämd i förväg). Tjänsten ersätter inte advokatrepresentation.
+
+## Tjänster
+- Överklagande av myndighetsbeslut
+- Försäkringsärenden (t.ex. avslag, återkrav)
+- Kravbrev och bestridanden av fakturor
+- Konsumenttvister
+
+## Så fungerar det
+- Du anmäler ditt ärende via formuläret på webbplatsen.
+- Bedömningen är kostnadsfri och sker inom 24 timmar.
+- Allt material granskas manuellt innan leverans.
+- Betalning sker endast om ärendet vinner.
+
+## Sidor
+- [Privatpersoner](https://juridiskaistottning.se/)
+- [Företag](https://juridiskaistottning.se/foretag)
+
+## Kontakt
+- Webb: https://juridiskaistottning.se
+- E-post: juridiskaistottning@outlook.com
+
+## Viktigt
+Informationen på webbplatsen är allmän information och inte juridisk rådgivning i enskilda fall.
